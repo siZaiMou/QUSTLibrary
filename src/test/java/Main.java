@@ -9,10 +9,10 @@ import fun.liutong.LibTool;
  */
 public class Main {
     public static void main(String[] args) {
-        LibTool libTool = new LibTool("a074ea580fb9ff84bc43eeaefcab4f63");
+        LibTool libTool = new LibTool("44fbed26fc5592a8e285ad5a80fb1370");
 
-        libTool.addSeat("11251","37","8")
-                .setDate("2022-01-01 17:15:59.000")
+        libTool.addSeat("11251","37","10")
+                .setDate("2022-01-01 18:45:59.000")
                 .start();
         System.out.println("111");
     }
